@@ -13,6 +13,6 @@ public class HelloController {
 
     @GetMapping("/")
     public String root() {
-        return "Hi This page BEFORE MODIFIED2222222 언제쯤 받을까?? 마지막?? 입니다.";
+        return "Hi This page BEFORE MODIFIED 언제쯤 받을까?? 마지막?? 입니다.";
     }
 }
